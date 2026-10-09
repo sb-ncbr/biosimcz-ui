@@ -1,9 +1,0 @@
-.molstar-embed {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-}
-
-.molstar-embed .msp-layout-expanded {
-  z-index: 20;
-}
