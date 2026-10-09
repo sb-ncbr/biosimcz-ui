@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Overall",
+    "analysis": "clusters-00"
+  },
+  {
+    "name": "protein-ligand interaction",
+    "analysis": "clusters-01"
+  }
+]

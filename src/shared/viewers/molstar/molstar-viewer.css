@@ -1,0 +1,9 @@
+/* Mol* sets its own UI font; inherit the app typeface instead. */
+.mdr-molstar .msp-plugin {
+  font-family: inherit;
+}
+
+/* An expanded Mol* layout must sit above the app chrome (header, sticky bars). */
+.mdr-molstar .msp-layout-expanded {
+  z-index: 50;
+}

@@ -1,0 +1,11 @@
+/*
+ * Placeholder for the future brand palette.
+ * The app runs on the e-infra design system defaults. When a brand palette is
+ * agreed, override e-infra CSS custom properties here (and only here) so that
+ * literal colour values stay out of components.
+ */
+
+/* The design-system muted text (#6e6a82) is 3.9:1 on surface-raised; this darker value passes AA (4.5:1) on every surface. */
+:root {
+  --text-muted: #5a5670;
+}

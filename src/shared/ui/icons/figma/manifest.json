@@ -1,0 +1,146 @@
+[
+  {
+    "name": "access-embargoed",
+    "nodeId": "104:98",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "access-open",
+    "nodeId": "104:59",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "account-balance",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "bank-16",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "cloud-upload-12",
+    "nodeId": "102:10741",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "grip",
+    "nodeId": "196:60",
+    "frame": "186:1099",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "license",
+    "nodeId": "106:48",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "mol-ions-22",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "mol-ligand-22",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "mol-protein-22",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "mol-thumb-22",
+    "nodeId": "127:24",
+    "frame": "115:121",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "mol-water-22",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "ring-14",
+    "nodeId": "102:10750",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "ring-14-missing",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "ring-16",
+    "nodeId": null,
+    "frame": "226:5484",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "send-15",
+    "nodeId": "102:11038",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "shape-triclinic-22",
+    "nodeId": "133:87",
+    "frame": "115:121",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "status-done-14",
+    "nodeId": "186:1123",
+    "frame": "186:1099",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "status-done-16",
+    "nodeId": "102:10845",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "status-error-14",
+    "nodeId": "104:41",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "status-todo-14",
+    "nodeId": "104:89",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "status-todo-16",
+    "nodeId": "120:62",
+    "frame": "115:121",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "structure",
+    "nodeId": "106:42",
+    "frame": "102:10726",
+    "exportedAt": "2026-09-29"
+  },
+  {
+    "name": "upload-24",
+    "nodeId": "118:710",
+    "frame": "115:121",
+    "exportedAt": "2026-09-29"
+  }
+]

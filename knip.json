@@ -1,0 +1,5 @@
+{
+  "entry": ["src/app/**/{page,layout,route,error,not-found,global-error}.{ts,tsx}", "src/proxy.ts", "scripts/*.ts", "e2e/**/*.ts"],
+  "project": ["src/**/*.{ts,tsx}", "scripts/**/*.ts", "e2e/**/*.ts"],
+  "ignoreDependencies": ["tw-animate-css", "@tailwindcss/postcss", "tailwindcss", "@radix-ui/*", "class-variance-authority", "cmdk", "embla-carousel-react", "react-day-picker", "react-hook-form", "react-resizable-panels", "recharts", "sonner", "server-only", "tsx"]
+}

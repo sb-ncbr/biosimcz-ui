@@ -1,0 +1,10 @@
+/* Import order is load-bearing: Tailwind first, then the design-system tokens. */
+@import "tailwindcss";
+@import "@e-infra/design-system/setup.css";
+@source "../../node_modules/@e-infra/design-system/dist";
+@import "../shared/ui/theme/brand.css";
+
+/* Plain @theme (not inline): preflight reads the emitted --font-sans variable. */
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
